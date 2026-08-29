@@ -1,7 +1,22 @@
 # Paper Flight — 종이비행기 모험
 
+![Vite](https://img.shields.io/badge/Vite-7.3-646CFF?logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)
+![three.js](https://img.shields.io/badge/three.js-0.180-000000?logo=three.js&logoColor=white)
+![R3F](https://img.shields.io/badge/@react--three/fiber-9.7-black)
+![pnpm](https://img.shields.io/badge/pnpm-11.20-F69220?logo=pnpm&logoColor=white)
+![license](https://img.shields.io/badge/assets-런타임_생성-brightgreen)
+
 미니미를 태운 종이비행기가 스테이지를 날아 결승 게이트까지 가는 3D 러너.
 카메라는 비행기 뒤에 붙어 있고, 비행기와 미니미 모두 뒷모습이 보인다.
+
+## 플레이 화면
+
+| | |
+| --- | --- |
+| ![STAGE 1 마른 강의 사막](docs/screenshots/stage-01-desert.jpg)<br>**STAGE 1** — 마른 강의 사막 | ![STAGE 3 성운의 항로](docs/screenshots/stage-03-nebula.jpg)<br>**STAGE 3** — 성운의 항로 |
+| ![STAGE 6 고래의 산호 정원](docs/screenshots/stage-06-ocean.jpg)<br>**STAGE 6** — 고래의 산호 정원 | ![STAGE 11 알록달록 놀이동산](docs/screenshots/stage-11-park.jpg)<br>**STAGE 11** — 알록달록 놀이동산 |
 
 | 스테이지 | 무대 | 목표 거리 |
 | --- | --- | --- |
